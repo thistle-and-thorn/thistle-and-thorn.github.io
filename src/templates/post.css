@@ -3,3 +3,14 @@
     flex-direction: column;
     justify-content: center;
 }
+
+.post__root-link,
+.post__root-link:visited,
+.post__root-link:active  {
+    text-decoration: none;
+    color: unset;
+}
+
+.post__root-link:hover {
+    color: blue;
+}
