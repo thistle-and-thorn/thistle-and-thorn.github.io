@@ -1,11 +1,11 @@
 ---
-title: "Game - Inevitable Heat Death (Of The Universe)"
+title: "Post Mortem - Inevitable Heat Death (Of The Universe)"
 cover: "https://unsplash.it/1280/100/?random?HeatDeath"
 date: "2019/06/27"
-category: "tech"
+category: "game"
 tags:
-    - game-programming
-    - game-design
+    - "post-mortem"
+    - demo
 ---
 
 ## Code
