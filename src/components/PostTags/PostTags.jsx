@@ -7,7 +7,6 @@ class PostTags extends Component {
     const { tags } = this.props;
     return (
       <div className="post-tag-container">
-        <h3>Tags</h3>
         {tags &&
           tags.map(tag => (
             <Link

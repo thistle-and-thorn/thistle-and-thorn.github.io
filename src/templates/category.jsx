@@ -4,6 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../layout";
 import PostListing from "../components/PostListing/PostListing";
 import config from "../../data/SiteConfig";
+import AllPostTags from '../components/PostTags/AllPostTags';
 
 export default class CategoryTemplate extends React.Component {
   render() {

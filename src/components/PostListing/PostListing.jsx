@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "gatsby";
 import './PostListing.css';
+import PostTags from '../PostTags/PostTags';
 
 class PostListing extends React.Component {
   getPostList() {
@@ -22,7 +23,7 @@ class PostListing extends React.Component {
     const postList = this.getPostList();
     return (
       <div>
-        <ol>
+        <ul>
           {postList.map((post) => {
             return (
               <li className="post-listing__list-header">
@@ -32,7 +33,7 @@ class PostListing extends React.Component {
               </li>
             )
           })}
-        </ol>
+        </ul>
       </div>
     );
   }
