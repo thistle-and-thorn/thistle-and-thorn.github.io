@@ -4,7 +4,7 @@ import { graphql } from "gatsby";
 import Layout from "../layout";
 import PostListing from "../components/PostListing/PostListing";
 import config from "../../data/SiteConfig";
-import AllPostTags from '../components/PostTags/AllPostTags';
+import RootLink from "../components/Header/RootLink";
 
 export default class CategoryTemplate extends React.Component {
   render() {
@@ -16,6 +16,7 @@ export default class CategoryTemplate extends React.Component {
           <Helmet
             title={`Posts in category "${category}" | ${config.siteTitle}`}
           />
+          <RootLink />
           <PostListing postEdges={postEdges} />
         </div>
       </Layout>
