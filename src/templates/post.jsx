@@ -1,6 +1,7 @@
 import React from "react";
 import Helmet from "react-helmet";
 import { graphql, Link } from "gatsby";
+import { localDate } from '../lib/dates';
 import Layout from "../layout";
 import UserInfo from "../components/UserInfo/UserInfo";
 import Disqus from "../components/Disqus/Disqus";
@@ -32,7 +33,7 @@ export default class PostTemplate extends React.Component {
           <SEO postPath={slug} postNode={postNode} postSEO />
           <div>
             <h3><Link to="/" className="post__root-link">{config.siteTitle}</Link></h3>
-            <h1>{post.title}</h1>
+            <h1>{localDate(post.date)} ~ {post.title}</h1>
             <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
             <div className="post-meta">
               <h3>Tags</h3>

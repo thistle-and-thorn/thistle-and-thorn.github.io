@@ -1,7 +1,6 @@
 import React from "react";
 import { Link } from "gatsby";
 import './PostListing.css';
-import PostTags from '../PostTags/PostTags';
 
 class PostListing extends React.Component {
   getPostList() {
@@ -21,14 +20,17 @@ class PostListing extends React.Component {
   }
   render() {
     const postList = this.getPostList();
+    
     return (
       <div>
         <ul>
           {postList.map((post) => {
+            const dateString = (new Date(post.date)).toLocaleDateString();
+
             return (
               <li className="post-listing__list-header">
                 <Link to={post.path} key={post.title}>
-                  {post.title}
+                  {dateString} ~ {post.title}
                 </Link>
               </li>
             )
