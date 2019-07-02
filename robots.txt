@@ -2,4 +2,4 @@ User-agent: *
 Disallow: */tags/
 Disallow: */categories/
 
-sitemap: https://thistle-and-thorn.github.io/sitemap.xml
+sitemap: https://thistleandthornstudios.com/sitemap.xml
