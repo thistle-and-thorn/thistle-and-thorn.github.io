@@ -1,4 +1,94 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thistle and Thorn Studios]]></title><description><![CDATA[Thistle and Thorn Game Studios, based in Seattle.]]></description><link>https://thistle-and-thorn.github.io</link><image><url>https://thistle-and-thorn.github.io/logos/logo-512.png</url><title>Thistle and Thorn Studios</title><link>https://thistle-and-thorn.github.io</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Sat, 29 Jun 2019 16:30:17 GMT</lastBuildDate><atom:link href="https://thistle-and-thorn.github.io/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2019. Thistle and Thorn Studios]]></copyright><item><title><![CDATA[Post Mortem - Inevitable Heat Death (Of The Universe)]]></title><description><![CDATA[Codehttps://github.com/thistle-and-thorn/ihdVideoWriteupby ZachWhat is IHD(OTU)?In our game, Inevitable Heat Death (Of The Universe), the…]]></description><link>https://thistle-and-thorn.github.io/post-mortem-inevitable-heat-death-of-the-universe</link><guid isPermaLink="false">https://thistle-and-thorn.github.io/post-mortem-inevitable-heat-death-of-the-universe</guid><category><![CDATA[post-mortem]]></category><category><![CDATA[demo]]></category><pubDate>Thu, 27 Jun 2019 07:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;code&quot;&gt;&lt;a href=&quot;#code&quot; aria-label=&quot;code permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Thistle and Thorn Studios]]></title><description><![CDATA[Thistle and Thorn Game Studios, based in Seattle.]]></description><link>https://thistle-and-thorn.github.io</link><image><url>https://thistle-and-thorn.github.io/logos/logo-512.png</url><title>Thistle and Thorn Studios</title><link>https://thistle-and-thorn.github.io</link></image><generator>GatsbyJS Advanced Starter</generator><lastBuildDate>Tue, 02 Jul 2019 14:55:40 GMT</lastBuildDate><atom:link href="https://thistle-and-thorn.github.io/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Copyright © 2019. Thistle and Thorn Studios]]></copyright><item><title><![CDATA[Idea - Chamber Of Bullets]]></title><description><![CDATA[VideoWriteupby ZachWhat we started withWe came up with a couple of core tenets on the final day of IHD development.“Continuous” time instead…]]></description><link>https://thistle-and-thorn.github.io/idea-chamber-of-bullets</link><guid isPermaLink="false">https://thistle-and-thorn.github.io/idea-chamber-of-bullets</guid><category><![CDATA[idea]]></category><pubDate>Sun, 30 Jun 2019 07:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;video&quot;&gt;&lt;a href=&quot;#video&quot; aria-label=&quot;video permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Video&lt;/h2&gt;
+
+          &lt;div
+            class=&quot;gatsby-resp-iframe-wrapper&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;&quot;
+          &gt;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/HiG4YMQxAU8&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen style=&quot;
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          &quot;&gt;&lt;/iframe&gt;
+          &lt;/div&gt;
+          
+&lt;h2 id=&quot;writeup&quot;&gt;&lt;a href=&quot;#writeup&quot; aria-label=&quot;writeup permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Writeup&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;by Zach&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;what-we-started-with&quot;&gt;&lt;a href=&quot;#what-we-started-with&quot; aria-label=&quot;what we started with permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What we started with&lt;/h3&gt;
+&lt;p&gt;We came up with a couple of core tenets on the final day of IHD development.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;“Continuous” time instead of “discrete”. Not a turn-based game.&lt;/li&gt;
+&lt;li&gt;Flow of time is malleable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;We wanted to push ourselves into learning something new, and since we had only made turn-based games together,
+we felt it was time to move on into a more challenging space: real-time computation.&lt;/p&gt;
+&lt;p&gt;The goal of this second project is to start off on the right foot. We were going to focus on design
+and architecture first and foremost.&lt;/p&gt;
+&lt;h3 id=&quot;what-it-evolved-into&quot;&gt;&lt;a href=&quot;#what-it-evolved-into&quot; aria-label=&quot;what it evolved into permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What it evolved into&lt;/h3&gt;
+&lt;p&gt;Over the course of the video, you can see us shifting our gaze from aggressive, offense-focused games like &lt;em&gt;Superhot&lt;/em&gt;
+to something more &quot;relaxing&quot; like &lt;em&gt;Breath of the Wild&lt;/em&gt; (we mentioned it several times on Saturday). The goal is to get players
+into an &quot;indirect&quot; flow - they must run while something else handles the dirty work.&lt;/p&gt;
+&lt;p&gt;This was spawned by an idea I had over the course of the week. Patrick and I talked it over on Saturday and came up with a
+third and fourth core tenet:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The player is in control of a powerless avatar that controls another powerful being from the sidelines.&lt;/li&gt;
+&lt;li&gt;The player&apos;s actions could kill them through collateral damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These tenets formed the basis of our more &quot;final&quot; design.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;You summon turrets to kill your enemies, but they only target you. You must hide behind your enemies in order to get them killed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;balance&quot;&gt;&lt;a href=&quot;#balance&quot; aria-label=&quot;balance permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Balance&lt;/h3&gt;
+&lt;p&gt;There are a few important trade-offs in the game that I&apos;m quite proud of.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You can spawn as many turrets as you like.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your enemies are unlikely to survive.&lt;/li&gt;
+&lt;li&gt;You will also die more easily.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You are shielded when enemies are between you and your turret.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bullets won&apos;t hit you - your enemies will take the hits.&lt;/li&gt;
+&lt;li&gt;You might get pinned against a wall, letting the enemies surround you.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Some turrets can pierce through enemies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;More efficient slaughter.&lt;/li&gt;
+&lt;li&gt;Your best hiding place is a little weaker.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think we&apos;ll develop these further as the game goes on, and there will be smaller, less important
+decisions that the players will have to make very frequently.&lt;/p&gt;
+&lt;h3 id=&quot;timeline&quot;&gt;&lt;a href=&quot;#timeline&quot; aria-label=&quot;timeline permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Timeline&lt;/h3&gt;
+&lt;p&gt;We came up with the following scope for our first and second milestones:&lt;/p&gt;
+&lt;h4 id=&quot;version-0-4-weekends&quot;&gt;&lt;a href=&quot;#version-0-4-weekends&quot; aria-label=&quot;version 0 4 weekends permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Version 0 (4 weekends)&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;3D Environment &lt;/li&gt;
+&lt;li&gt;Mobs that follow the player&lt;/li&gt;
+&lt;li&gt;Turrets that track the player&lt;/li&gt;
+&lt;li&gt;Turrets with laser sight (for telegraphing aim)&lt;/li&gt;
+&lt;li&gt;Turrets that fire projectiles&lt;/li&gt;
+&lt;li&gt;Entities that take damage (enemies, player, turrets)&lt;/li&gt;
+&lt;li&gt;Player can drop turrets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If we&apos;re proud of this, and want to share the prototype with our friends, we&apos;ll continue with Version 1.&lt;/p&gt;
+&lt;h4 id=&quot;version-1&quot;&gt;&lt;a href=&quot;#version-1&quot; aria-label=&quot;version 1 permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Version 1&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Super basic visual effects (better models, particle effects, lighting)&lt;/li&gt;
+&lt;li&gt;Super basic audio effects (subtle music, sound effects for telegraphing and ambiance)&lt;/li&gt;
+&lt;li&gt;Adding turret types (grenade launcher, etc)&lt;/li&gt;
+&lt;li&gt;Adding enemy types&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Once we share this with our friends, we&apos;ll move on to Version 2 if they enjoy playing. &lt;/p&gt;
+&lt;p&gt;Of course, we&apos;ll stop at any time if we get burnt out on the project or find that the fundamental game design is lacking.
+I want to learn how to be better at commiting and pushing through the drudgery too, so I hope we don&apos;t give up too easily.&lt;/p&gt;</content:encoded><author>AdvancedUser@example.com</author></item><item><title><![CDATA[Post Mortem - Inevitable Heat Death (Of The Universe)]]></title><description><![CDATA[Codehttps://github.com/thistle-and-thorn/ihdVideoWriteupby ZachWhat is IHD(OTU)?In our game, Inevitable Heat Death (Of The Universe), the…]]></description><link>https://thistle-and-thorn.github.io/post-mortem-inevitable-heat-death-of-the-universe</link><guid isPermaLink="false">https://thistle-and-thorn.github.io/post-mortem-inevitable-heat-death-of-the-universe</guid><category><![CDATA[post-mortem]]></category><category><![CDATA[demo]]></category><pubDate>Thu, 27 Jun 2019 07:00:00 GMT</pubDate><content:encoded>&lt;h2 id=&quot;code&quot;&gt;&lt;a href=&quot;#code&quot; aria-label=&quot;code permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Code&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&quot;https://github.com/thistle-and-thorn/ihd&quot;&gt;https://github.com/thistle-and-thorn/ihd&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;video&quot;&gt;&lt;a href=&quot;#video&quot; aria-label=&quot;video permalink&quot; class=&quot;anchor&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Video&lt;/h2&gt;
 
